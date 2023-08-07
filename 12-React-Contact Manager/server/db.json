@@ -1,0 +1,80 @@
+{
+  "contacts": [
+    {
+      "name": "Brad Wilson",
+      "company": "YouTube",
+      "email": "Brad@gmail.com",
+      "title": "Teacher",
+      "mobile": "9876546787",
+      "imageUrl": "https://pixlok.com/wp-content/uploads/2022/02/Profile-Icon-SVG-09856789.png",
+      "groupId": "3",
+      "id": "D6BNdWnHI"
+    },
+    {
+      "id": "TVobxeKbl",
+      "name": "Glenda Kim",
+      "company": "Friend",
+      "email": "Glenda@gmail.com",
+      "title": "Freelancer",
+      "mobile": "8880009991",
+      "imageUrl": "https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png",
+      "groupId": "2"
+    },
+    {
+      "name": "Vladan Min",
+      "imageUrl": "https://www.pngitem.com/pimgs/m/78-786293_1240-x-1240-0-avatar-profile-icon-png.png",
+      "mobile": "900079900",
+      "email": "Vladeen@gmail.com",
+      "company": "Service",
+      "title": "Electrician",
+      "groupId": "4",
+      "id": "UyEDVSYds"
+    },
+    {
+      "name": "Rajan Mallik",
+      "imageUrl": "https://p.kindpng.com/picc/s/78-786207_user-avatar-png-user-avatar-icon-png-transparent.png",
+      "mobile": "9090909090",
+      "email": "Rajan@gmail.com",
+      "company": "HCL_Technologies",
+      "title": "Software Engineer",
+      "groupId": "6",
+      "id": "kLt-bjf"
+    },
+    {
+      "name": "Dilsad Mohammed",
+      "company": "Cognizant",
+      "email": "Dilsad.mohammed@chase.com",
+      "title": "Jr. Engineer",
+      "mobile": "7377983977",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g8R5VmgqDqpRCwQfw2Y9V-DM-iXS59R9hQ&usqp=CAU",
+      "groupId": "1",
+      "id": "A2Xw9IB"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Collage"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Colleague"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
