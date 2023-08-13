@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "name": "Rihan Mohammed",
+      "company": "Home Abroad",
+      "email": "rihan@gmail.com",
+      "title": "SED",
+      "mobile": "8895669070",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g8R5VmgqDqpRCwQfw2Y9V-DM-iXS59R9hQ&usqp=CAU",
+      "groupId": "2",
+      "id": 1
+    },
+    {
+      "name": "Dilsad Mohammed",
+      "company": "Cognizant",
+      "email": "dilsad.mohammed@chase.com",
+      "title": "SDE 3",
+      "mobile": "7377983977",
+      "imageUrl": "https://pixlok.com/wp-content/uploads/2022/02/Profile-Icon-SVG-09856789.png",
+      "groupId": "6",
+      "id": 2
+    },
+    {
+      "name": "Himanshu Senger",
+      "company": "HCL_Technologies",
+      "email": "Himanshu@yahoo.com",
+      "title": "DFR",
+      "mobile": "9938365507",
+      "imageUrl": "https://p.kindpng.com/picc/s/78-786207_user-avatar-png-user-avatar-icon-png-transparent.png",
+      "groupId": "2",
+      "id": 3
+    },
+    {
+      "name": "Avilipsa Mohanty",
+      "company": "TCS",
+      "email": "1970006@kiit.ac.in",
+      "title": "FF",
+      "mobile": "8895669080",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/2920/2920045.png",
+      "groupId": "2",
+      "id": 4
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Collage"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Colleague"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
